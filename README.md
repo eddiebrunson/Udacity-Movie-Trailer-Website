@@ -10,7 +10,7 @@ This project required the use of Python, to write server-side code to store a li
 
 ## To Run 
 
-```
+
 * Clone or download the repository 
 
 https://github.com/eddiebrunson/Udacity-Movie-Trailer-Website.git
@@ -28,7 +28,7 @@ entertainment_center.py
 f5
 
 * The browser should open and you should see the site
-```
+
 ------------------------------
 ## Screenshots
 
