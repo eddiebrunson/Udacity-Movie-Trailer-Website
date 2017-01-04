@@ -1,3 +1,39 @@
-** Movie Trailer Website Project**
+### Movie Trailer Website Project 
+
+## Project Overview
+
 This project required the use of Python, to write server-side code to store a list of my favorite movies, including movie titles, storylines, box art imagery, movie trailers, and ratings. To then serve this data as a web page allowing visitors to review the movies and watch the trailers. 
---------
+
+---------------------------
+
+## To Run 
+
+```
+# Clone or download the repository 
+
+https://github.com/eddiebrunson/Udacity-Movie-Trailer-Website.git
+
+# Ensure you have or download Python 
+
+https://www.python.org/downloads/
+
+# Open file in IDLE
+
+entertainment_center.py
+
+# Run the file
+
+f5
+
+# The browser should open and you should see the site
+```
+
+## Screenshots
+
+# The Movie Trailer Website View
+
+![](SSFulPage.png)
+
+# The Movie Trailer Website with movie trailer open preview 
+
+![](SSTrailerPlaying.png)
