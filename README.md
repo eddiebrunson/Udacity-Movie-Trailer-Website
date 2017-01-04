@@ -39,3 +39,11 @@ This project required the use of Python, to write server-side code to store a li
 # The Movie Trailer Website with movie trailer open preview 
 
 ![](SSTrailerPlaying.png)
+
+------------------------------
+## Sources 
+
+* Udacity Discussion Board
+* Pep8 Style Guide 
+* Udacity Programming Foundations with Python Course
+* [Movie Trailer WebStie: Getting Started Guide](https://docs.google.com/document/d/1joDQNQl_4icYYm6tM_F9ch5hZEH_f157hlljSUGOLWs/pub?embedded=true)
