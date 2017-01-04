@@ -17,7 +17,7 @@ https://github.com/eddiebrunson/Udacity-Movie-Trailer-Website.git
 
 * Ensure you have or download Python 
 
-[https://www.python.org/downloads/]
+[Download Python here](https://www.python.org/downloads/)
 
 * Open file in IDLE
 
